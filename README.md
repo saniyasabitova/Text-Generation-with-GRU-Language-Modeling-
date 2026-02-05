@@ -21,9 +21,6 @@ Sampling Strategies: Includes a text generation function with adjustable sequenc
 
 Efficient Preprocessing: Implemented vocabulary mapping (word2ind, ind2word) and tokenization.
 
- Results & Visualizations
-You can find the training metrics and generation examples in the /results folder:
-
 Training Loss: The model shows smooth convergence, indicating effective learning of the language distribution. *
 
 Text Generation Example:
