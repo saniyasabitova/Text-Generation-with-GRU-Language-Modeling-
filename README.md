@@ -1,6 +1,7 @@
 # Text-Generation-with-GRU-Language-Modeling-
 
 Description
+
 This project focuses on building a  Word-Level Language Model using Gated Recurrent Units (GRU). The goal is to predict the next word in a sequence based on the previous context. The model was trained on a text dataset to capture linguistic patterns and generate coherent sentences.
 
  Tech Stack
